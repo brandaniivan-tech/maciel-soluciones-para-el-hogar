@@ -1,0 +1,6 @@
+{
+  "name": "Maciel Soluciones para el Hogar",
+  "description": "Landing page moderna y optimizada para Maciel Soluciones para el Hogar, ofreciendo servicios de gasista matriculado, electricista, plomero, pintor y herrero en CABA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
